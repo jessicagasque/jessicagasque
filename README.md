@@ -47,6 +47,10 @@
 
 - [x] 👩🏻‍💼  Srum Master pela Digital Innovation One (DIO)
   
+- [x] 🚀  Quality Assurance: plano de testes e gestão de bugs (Alura)
+  
+- [x] 💻  Cypress: automação de testes E2E (Alura)
+  
 - [ ] 🤖  Specialist Internet of Things (IoT) na Digital Innovation One (DIO)
 
 - [ ] 🔗  Graduanda em Sistemas para internet na Faculdade de Tecnologia Senac (FATEC)
@@ -56,7 +60,8 @@
 - [ ] 🚀  Estudante do curso Specialist Machine Learning na Digital Innovation One (DIO) 
 
 - [ ] 🎲  Estudante do curso Specialist SQL Database na Digital Innovation One (DIO)
-  
+
+
   
   
 Legenda:
