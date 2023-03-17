@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,css,discord,figma,git,github,gitlab,html,java,js,jquery,mysql,nodejs,postgres,powershell,r,react,sass,ts,vscode,linux,python, docker, ajax" />
+    <img src="https://skillicons.dev/icons?i=angular,css,discord,ps,sqlite,sequelize,git,github,gitlab,html,java,js,jquery,mysql,nodejs,postgres,powershell,r,react,sass,ts,vscode,linux,python,docker,figma&theme=light" />
   </a>
 </p>          
 </div>
@@ -51,7 +51,7 @@
   
 - [x] 💻  Cypress: automação de testes E2E (Alura)
   
-- [ ] 🤖  Specialist Internet of Things (IoT) na Digital Innovation One (DIO)
+- [ ] 🤖  Python: começando com a linguagem (Alura)
 
 - [ ] 🔗  Graduanda em Sistemas para internet na Faculdade de Tecnologia Senac (FATEC)
   
