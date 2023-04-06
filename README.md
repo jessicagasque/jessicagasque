@@ -1,4 +1,4 @@
-### Olá! Bem vindo(a) ao meu perfil, espero que você encontre algo que possa utilizar ou aprimorar!
+### Olá! Bem vindo(a) ao meu perfil, espero que você encontre algo que possa utilizar || aprimorar!
 
 #
 
