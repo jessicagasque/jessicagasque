@@ -40,26 +40,23 @@
   
 <span align="justify">
  
-
+- [x] 🔗  Graduada em ADS - Análise e Desenvolvimento de Sistemas (UniSenac)
+    
 - [x] 👩  Licenciatura em Letras - Português e suas literauras na Universidade Faderal de Pelotas (UFPel)
 
 - [x] 🚆  Web design pela escola SENAC/Pelotas
-
-- [x] 👩🏻‍💼  Srum Master pela Digital Innovation One (DIO)
   
 - [x] 🚀  Quality Assurance: plano de testes e gestão de bugs (Alura)
   
-- [x] 💻  Cypress: automação de testes E2E (Alura)
-  
-- [ ] 🤖  Python: começando com a linguagem (Alura)
+- [x] 🤖  Python: começando com a linguagem (Alura)
 
-- [ ] 🔗  Graduanda em Sistemas para internet na Faculdade de Tecnologia Senac (FATEC)
-  
-- [ ] 📚  Estudante do curso Arquitetura de dados essencial na Digital Innovation One (DIO)
+- [x] 🎲  Fundamentos da Engenharia de Dados (Data Science Academy)
 
-- [ ] 🚀  Estudante do curso Specialist Machine Learning na Digital Innovation One (DIO) 
+- [ ] 🚀  Estudante do curso Fundamentos de linguagem Python para análise de dados e data science (Data Science Academy)
 
-- [ ] 🎲  Estudante do curso Specialist SQL Database na Digital Innovation One (DIO)
+- [ ] 💻  Estudante do curso AWS Cloud Practitioner (Udemy)
+
+- [ ] 👩🏻‍💼  Estudante do curso SQL do zero ao avançado (Udemy)
 
 
   
