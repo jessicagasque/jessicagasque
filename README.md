@@ -42,7 +42,7 @@
  
 - [x] 🔗  Graduada em ADS - Análise e Desenvolvimento de Sistemas (UniSenac)
     
-- [x] 👩  Licenciatura em Letras - Português e suas literauras na Universidade Faderal de Pelotas (UFPel)
+- [x] 👩  Licenciatura em Letras - Português e suas literaturas na Universidade Faderal de Pelotas (UFPel)
 
 - [x] 🚆  Web design pela escola SENAC/Pelotas
   
