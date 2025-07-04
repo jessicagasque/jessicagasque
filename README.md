@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,ts,py,nodejs,react,sqlite,sequelize,discord,git,github,gitlab,jquery,mysql,postgres,redux,sass,spring,selenium,docker,linux,ps,vscode,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,ts,py,nodejs,react,sqlite,sequelize,aws,discord,git,github,gitlab,jquery,mysql,postgres,redux,sass,spring,selenium,docker,linux,ps,vscode,figma&theme=light" />
   </a>
 </p>          
 </div>
@@ -40,7 +40,7 @@
   
 <span align="justify">
  
-- [x] 🔗  Graduada em ADS - Análise e Desenvolvimento de Sistemas (UniSenac)
+- [x] 💻  Graduada em ADS - Análise e Desenvolvimento de Sistemas (UniSenac)
     
 - [x] 👩  Licenciatura em Letras - Português e suas literaturas na Universidade Faderal de Pelotas (UFPel)
 
@@ -52,9 +52,9 @@
 
 - [x] 🎲  Fundamentos da Engenharia de Dados (Data Science Academy)
 
-- [ ] 🚀  Estudante do curso Fundamentos de linguagem Python para análise de dados e data science (Data Science Academy)
+- [x] 🏅  AWS Cloud Practitioner Certified
 
-- [ ] 💻  Estudante do curso AWS Cloud Practitioner (Udemy)
+- [ ] 🚀  Estudante do curso Fundamentos de linguagem Python para análise de dados e data science (Data Science Academy)
 
 - [ ] 👩🏻‍💼  Estudante do curso SQL do zero ao avançado (Udemy)
 
